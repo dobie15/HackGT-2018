@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "284249396949",
+    "firebase_url": "https://hackgt-7ec7b.firebaseio.com",
+    "project_id": "hackgt-7ec7b",
+    "storage_bucket": "hackgt-7ec7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284249396949:android:00c97ec227fa292c",
+        "android_client_info": {
+          "package_name": "travel.Board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284249396949-miulukgakki64dnv8ni5idj8ig4j6fa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMfxu_Ig39v9iTnIsS_7VmPrGiV0wIb0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
