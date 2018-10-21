@@ -1,0 +1,3 @@
+interface ClassifierCallback{
+void onClassified(String modelTitle, List topLabels);
+}

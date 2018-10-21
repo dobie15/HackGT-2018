@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "745070765003",
+    "firebase_url": "https://wonderlust-bd1b0.firebaseio.com",
+    "project_id": "wonderlust-bd1b0",
+    "storage_bucket": "wonderlust-bd1b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745070765003:android:6929af533aac77d6",
+        "android_client_info": {
+          "package_name": "com.example.mohonaahmed.travelapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745070765003-qli34hin3v9qebpc9q7r0uhgj2k8r19k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLTTdedO2Xo7pJ0I1lzMDWwPVSRAY1pdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TravelApplication</string>
+    <string name="title_activity_login">travel application</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">your name</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">inspire me</string>
+    <string name="action_sign_in_short">inspire me</string>
+    <string name="error_invalid_email">This name is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_upload_photo">UploadPhoto</string>
+    <string name="title_activity_upload_image">UploadImage</string>
+    <string name="inspireme">inspire me</string>
+    <string name="hint">name</string>
+    <string name="welcometraveller">welcome traveller!!!</string>
+    <string name="uploadhere">upload your photo here</string>
+    <string name="seeboard">see board</string>
+    <string name="title_activity_picture_board">pictureBoard</string>
+
+
+</resources>
